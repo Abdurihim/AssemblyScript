@@ -1,0 +1,13 @@
+dist/
+deploy_versions/
+node_modules/
+yarn.lock
+.temp/
+.rn_temp/
+.DS_Store
+.vscode
+
+project.config.json
+
+scripts/update-iconfont/config.mine.js
+scripts/tea-cli/tea.config.mine.js
